@@ -1,10 +1,4 @@
-# Learning_Full-Stack
-Welcome to the Learning_Full_Stack repository! This repository houses my journey to learning full-stack development alongside code snippets and projects developed. 
-This learning journey is based on [The Odin Project](https://www.theodinproject.com/) a free open-source coding curriculum that can be taken entirely online.
-
-Here's the collection of projects made during this journey:
-
-## Meal-O-Mania
+# Meal-O-Maniac
 This project is a meal recommendation website.
 
 <ins>Status:</ins> **Deployed on [GitHub-Pages](https://sadhug.github.io/Meal-O-Mania/)** (view on a screen of resolution of 880p or higher for optimal viewing experience)
